@@ -1,0 +1,7 @@
+This package was created to split of the Skins from the mplayer package.
+These skins are arch:all anyway, so we save a bit archive space.
+
+This makes it possible to distribute more mplayer skins. If a new skin
+is to be added to this package, just drop the new *.tar.bz file into 
+the orig.tar.gz and increase the version number. Please not that the
+skin needs a proper copyright statement!
